@@ -11,7 +11,7 @@ defineProps({
     v-if="showModal"
     class="backdrop-blur-sm overflow-x-hidden overflow-y-auto fixed inset-0 z-50 justify-center filter items-center flex"
   >
-    <div class="relative w-1/3 my-6 mx-auto">
+    <div class="relative w-11/12 md:w-1/2 lg:w-1/3 my-6 mx-auto">
       <div
         class="border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-dark2"
       >
